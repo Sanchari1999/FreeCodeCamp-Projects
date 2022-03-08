@@ -2,7 +2,7 @@
 
 Responsive Web Design Projects
 
-  1. Build a Tribute Page
+  1. Build a Tribute Page:
           a. User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
           b. User Story #2: I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
           c. User Story #3: I should see either a figure or a div element with a corresponding id="img-div".
